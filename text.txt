@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 ahmed bassam
+=======
+ahmed
+rdfhgjkl;'
+fdghjkl;gf
+
+bxjdhfjlcdifl
+snddj
+>>>>>>> math-feature
